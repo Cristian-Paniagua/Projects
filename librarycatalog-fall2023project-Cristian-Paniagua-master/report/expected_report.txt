@@ -1,0 +1,82 @@
+				REPORT
+
+		SUMMARY OF BOOKS
+GENRE						AMOUNT
+Adventure					12
+Fiction						11
+Classics					12
+Mystery						8
+Science Fiction					7
+====================================================
+			TOTAL AMOUNT OF BOOKS	50
+
+			BOOKS CURRENTLY CHECKED OUT
+
+THE CATCHER IN THE RYE BY J.D. SALINGER
+DUNE BY FRANK HERBERT
+THE GIRL WITH THE DRAGON TATTOO BY STIEG LARSSON
+THE HOBBIT BY J.R.R. TOLKIEN
+TO KILL A MOCKINGBIRD BY HARPER LEE
+THE ROAD BY CORMAC MCCARTHY
+THE ODYSSEY BY HOMER
+1984 BY GEORGE ORWELL
+THE LORD OF THE RINGS BY J.R.R. TOLKIEN
+THE HITCHHIKER'S GUIDE TO THE GALAXY BY DOUGLAS ADAMS
+THE ART OF WAR BY SUN TZU
+THE SHINING BY STEPHEN KING
+THE COUNT OF MONTE CRISTO BY ALEXANDRE DUMAS
+THE GRAPES OF WRATH BY JOHN STEINBECK
+THE JUNGLE BOOK BY RUDYARD KIPLING
+A TALE OF TWO CITIES BY CHARLES DICKENS
+THE LITTLE PRINCE BY ANTOINE DE SAINT-EXUPERY
+THE NIGHT CIRCUS BY ERIN MORGENSTERN
+LIKE WATER FOR CHOCOLATE BY LAURA ESQUIVEL
+THE GOLDFINCH BY DONNA TARTT
+THE MARTIAN BY ANDY WEIR
+THE NAME OF THE WIND BY PATRICK ROTHFUSS
+THE MAGICIANS BY LEV GROSSMAN
+THE CATCHER IN THE RYE BY J.D. SALINGER
+THE LITTLE PRINCE BY ANTOINE DE SAINT-EXUPURY
+====================================================
+			TOTAL AMOUNT OF BOOKS	25
+
+
+
+		USERS THAT OWE BOOK FEES
+
+John Smith					1282.5
+Jane Doe					0.0
+Michael Johnson					711.5
+Emily Williams					0.0
+William Brown					0.0
+Susan Jones					274.0
+David Davis					0.0
+Sarah Wilson					968.0
+James Anderson					103.0
+Linda Taylor					0.0
+Robert Moore					0.0
+Karen Lee					849.0
+Charles Martin					1258.5
+Lisa Hall					0.0
+Joseph Clark					1026.0
+Mary Rodriguez					0.0
+John Wright					847.5
+Karen Turner					512.5
+Michael White					0.0
+Patricia Lewis					0.0
+Thomas Scott					0.0
+Nancy Garcia					0.0
+Daniel Young{36}					0.0
+Laura Harris					0.0
+Christopher King					0.0
+Kimberly Baker					58.0
+Matthew Martinez					0.0
+Linda Allen					0.0
+Richard Taylo					0.0
+Donna Lopez					0.0
+====================================================
+				TOTAL DUE	$7890.5
+
+
+
+
